@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">FORMULARIO T1</string>
+    <string name="hello_text">DATOS PERSONALES :D</string>
+    <string name="accept_button">Aceptar</string>
+    <string name="button_clicked">Haz dado click al botón!</string>
+    <string name="add_text">Ingresa un texto</string>
+    <string name="phone">Teléfono</string>
+
+    <string name="first_name">names</string>
+    <string name="last_name">last_name</string>
+    <string name="email">email</string>
+    <string name="authentication_success">DATOS VALIDOS :D</string>
+    <string name="authentication_error">COMPLETA LOS CAMPOS RQUQERIDOS </string>
+
+
+</resources>
