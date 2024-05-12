@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WelcomeApp</string>
+    <string name="welcome_message_es">¡Bienvenido!</string>
+    <string name="welcome_message_en">Welcome!</string>
+    <string name="welcome_message_fr">Bienvenue!</string>
+    <string name="Titulo">SELECCIONE SU PAIS\n</string>
+    <string name="continuar">Continuar</string>
+
+</resources>
